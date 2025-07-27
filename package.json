@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "config.js"
+    "start": "node config.js"
   },
   "author": "dinesh",
   "license": "ISC",
